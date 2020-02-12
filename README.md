@@ -1,0 +1,3 @@
+# anekdotsolbot
+
+pip install pytelegrambotapi
